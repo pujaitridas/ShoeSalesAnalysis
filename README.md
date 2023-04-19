@@ -1,3 +1,3 @@
 # ShoeSalesAnalysis
-This is a case study of analyisng shoe sales using SQL.
+This is a case study of analysing shoe sales using SQL.
 
