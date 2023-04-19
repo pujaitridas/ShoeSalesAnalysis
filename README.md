@@ -1,2 +1,3 @@
-# Sql_cs
-Case studies using SQL.
+# ShoeSalesAnalysis
+This is a case study of analyisng shoe sales using SQL.
+
