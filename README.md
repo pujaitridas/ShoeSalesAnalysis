@@ -26,7 +26,7 @@ Key Takeaways/ Insights :
 From Data Analyis I:
 1. $75 - $125 have maximum sales while $225 above had least number of sales.
 2. Most sold out colors were Black, White, Grey, Blue, Pink while least sold colors were Brown,Charcoal, Collegiate Navy, Multi-color,True White.
-3. Mesh, primeknit,Leather, Canvas were most sold out than Textile and flexweave in terms of Materials.
+3. Mesh, primeknit,Leather, Canvas were more sold out than Textile and flexweave in terms of Materials of shoes.
 
 This shows brands should consider producing more in categories where they are having higher sales.
 
